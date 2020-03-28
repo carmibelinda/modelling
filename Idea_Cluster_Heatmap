@@ -1,0 +1,7 @@
+Hierarchical Clustering & Heat map: 
+Identify clusters of countries based on variables and visualize it in a heatmap. 
+Define variables and assign thresholds:
+Examples: 
+- Population density
+- Exponentinal growth rate modelled 
+- Considering the outbreak goes exponential, the experts says that the keypoint is 0.4% of the population, then we look at how many days the government took to apply restriction movement policies.  
